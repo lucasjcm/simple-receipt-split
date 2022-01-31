@@ -24,3 +24,6 @@ yarn-error.log*
 
 # vim session
 Session.vim
+
+# TODO notes
+TODO.txt
