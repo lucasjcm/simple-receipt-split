@@ -1,4 +1,4 @@
-import React from 'react';
+import React from "react";
 
 const App = () => {
   return (
@@ -6,6 +6,6 @@ const App = () => {
       <p>Let's split receipts!</p>
     </div>
   );
-}
+};
 
 export default App;
