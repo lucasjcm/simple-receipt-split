@@ -12,7 +12,7 @@
  - [ ] Improve UI, add nice title, etc
  - [ ] Align buttons
  - [ ] Get delete person working properly (esp. when deleted name takes the place of someone elses)
-   - Perhaps: Adding name doesn't change checkboxes, but deleting a name resets iff there are checkboxes?
+  - Perhaps: Adding name doesn't change checkboxes, but deleting a name resets iff there are checkboxes?
  - [ ] Get delete item working properly
  - [ ] Get duplicate working
  - [ ] Color coding of some kind
