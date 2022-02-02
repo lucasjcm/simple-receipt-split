@@ -2,9 +2,10 @@
 
 ## Meta
  - [x] Initial MVP commit
- - [ ] Make a nice `README.md` file.
+ - [ ] Make a nice `README.md` file with setup instructions and such
  - [ ] Add an import sorter
  - [ ] Organize CSS better (remove inline styles, maybe)
+ - [ ] Add proper software licensing
 
 ## Features
  - [ ] Always start with at least one person and one item
@@ -24,13 +25,9 @@
  - [ ] Convert `shouldUpdate` into more efficient `dependencies` or "update-if-these-fields-change" function
  - [ ] Type "any" things
 
-
 ## Testing
  - [ ] Set up Cypress tests
 
 
-
-
 # Assorted notes
-
  - Focusing on desktop first (mobile later, if ever)
